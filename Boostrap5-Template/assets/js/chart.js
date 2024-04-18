@@ -7,7 +7,7 @@ $(function () {
 
   
 
-      label: '# of Votes',
+
       data: [10, 19, 3, 5, 2, 3],
       backgroundColor: [
         'rgba(255, 99, 132, 0.2)',
