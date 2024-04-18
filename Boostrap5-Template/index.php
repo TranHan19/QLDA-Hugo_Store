@@ -1,6 +1,6 @@
 <?php
 session_start();
-include "../model/pdo.php";
+
 include "../model/category.php";
 include "../model/products.php";
 include "../model/account.php";
