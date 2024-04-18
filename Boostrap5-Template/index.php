@@ -2,7 +2,7 @@
 session_start();
 
 
-include "../model/products.php";
+
 include "../model/account.php";
 include "../model/comment.php";
 include "../model/cart.php";
