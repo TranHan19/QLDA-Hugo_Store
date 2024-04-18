@@ -14,7 +14,6 @@ $(function () {
    
         
       
-        'rgba(153, 102, 255, 0.2)',
     
       ],
       borderColor: [
