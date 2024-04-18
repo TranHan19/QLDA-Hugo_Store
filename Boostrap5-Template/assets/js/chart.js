@@ -12,7 +12,7 @@ $(function () {
    
     
    
- 
+
 
       label: '# of Votes',
       data: [10, 19, 3, 5, 2, 3],
