@@ -4,7 +4,6 @@ $(function () {
    * Data and config for chartjs
    *
 
-
       
    
       
