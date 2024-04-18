@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-include "../model/category.php";
+
 include "../model/products.php";
 include "../model/account.php";
 include "../model/comment.php";
