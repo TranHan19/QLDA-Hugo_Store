@@ -19,7 +19,7 @@ $(function () {
        
        
       
-      ],
+      
       borderWidth: 1,
       fill: false
     }]
